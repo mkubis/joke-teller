@@ -61,10 +61,10 @@ button:disabled {
     background-position: center center;
     background-size: cover;
    }
-   
+
    img {
     height: 100vh;
-    width: auto;
+    width: 100vw;
   }
 
    button {
